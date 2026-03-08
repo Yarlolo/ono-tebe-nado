@@ -13,7 +13,7 @@
 ### Ссылки
 
 - Задание: [Figma](https://www.figma.com/file/j0GR1cSFoZbUnNWNvpDapI)
-- Решения: [Github](https://github.com/Yarlolo/ono-tebe-nado)
+- Решения: [Github](https://github.com/Yarlolo/ono-tebe-nado-ad)
 
 ## Автор
 
